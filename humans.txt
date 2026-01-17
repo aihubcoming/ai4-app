@@ -1,5 +1,5 @@
 /* TEAM */
-    Developer: AIQTChat Team
+    Developer: IMAIET Team
     Contact: support [at] open-chat.us
     GitHub: https://github.com/michelbr84/neon-chat-pulse
     Location: Open Source Community
